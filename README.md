@@ -42,7 +42,7 @@ Central Hub (Sorting)
     ↓ [StandardTruck Transport]
 Destination Branch (Storage)
     ↓ [Van Delivery]
-Customer (Recipient)
+Customer (Recipient) 
 ```
 
 ### Package Status States
